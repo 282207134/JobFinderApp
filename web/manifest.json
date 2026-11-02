@@ -1,0 +1,35 @@
+{
+  "name": "Job Finder",
+  "short_name": "Job Finder",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FCFCFE",
+  "theme_color": "#4BC1F7",
+  "description": "Find your next opportunity with Job Finder.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/Icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

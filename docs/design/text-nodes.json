@@ -1,0 +1,4543 @@
+{
+  "nodes": [
+    {
+      "id": "117:45",
+      "name": "Map",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10992,
+        "y": 11283,
+        "width": 55,
+        "height": 30
+      },
+      "parentId": "117:43",
+      "previewCharacters": "Map"
+    },
+    {
+      "id": "117:1903",
+      "name": "Profile",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11332,
+        "y": 12044,
+        "width": 38,
+        "height": 18
+      },
+      "parentId": "117:1899",
+      "previewCharacters": "Profile"
+    },
+    {
+      "id": "117:1905",
+      "name": "Notification",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11461,
+        "y": 12044,
+        "width": 70,
+        "height": 18
+      },
+      "parentId": "117:1904",
+      "previewCharacters": "Notification"
+    },
+    {
+      "id": "117:1911",
+      "name": "Save",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11549,
+        "y": 12044,
+        "width": 30,
+        "height": 18
+      },
+      "parentId": "117:1910",
+      "previewCharacters": "Save"
+    },
+    {
+      "id": "117:1916",
+      "name": "Home",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11644,
+        "y": 12044,
+        "width": 36,
+        "height": 18
+      },
+      "parentId": "117:1915",
+      "previewCharacters": "Home"
+    },
+    {
+      "id": "117:1922",
+      "name": "19m ago",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11361,
+        "y": 11826,
+        "width": 43,
+        "height": 16
+      },
+      "parentId": "117:1921",
+      "previewCharacters": "19m ago"
+    },
+    {
+      "id": "117:1923",
+      "name": "Congratulations",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11566,
+        "y": 11838,
+        "width": 97,
+        "height": 18
+      },
+      "parentId": "117:1921",
+      "previewCharacters": "Congratulations"
+    },
+    {
+      "id": "117:1924",
+      "name": "Job Finished",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11566,
+        "y": 11812,
+        "width": 102,
+        "height": 22
+      },
+      "parentId": "117:1921",
+      "previewCharacters": "Job Finished"
+    },
+    {
+      "id": "117:1929",
+      "name": "14m ago",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11361,
+        "y": 11720,
+        "width": 43,
+        "height": 16
+      },
+      "parentId": "117:1928",
+      "previewCharacters": "14m ago"
+    },
+    {
+      "id": "117:1930",
+      "name": "warning!",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11566,
+        "y": 11732,
+        "width": 54,
+        "height": 18
+      },
+      "parentId": "117:1928",
+      "previewCharacters": "warning!"
+    },
+    {
+      "id": "117:1931",
+      "name": "Password Change",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11566,
+        "y": 11706,
+        "width": 148,
+        "height": 22
+      },
+      "parentId": "117:1928",
+      "previewCharacters": "Password Change"
+    },
+    {
+      "id": "117:1936",
+      "name": "9m ago",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11358,
+        "y": 11614,
+        "width": 40,
+        "height": 16
+      },
+      "parentId": "117:1935",
+      "previewCharacters": "9m ago"
+    },
+    {
+      "id": "117:1937",
+      "name": "Go to news feed",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11566,
+        "y": 11626,
+        "width": 98,
+        "height": 18
+      },
+      "parentId": "117:1935",
+      "previewCharacters": "Go to news feed"
+    },
+    {
+      "id": "117:1938",
+      "name": "New Job",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11566,
+        "y": 11600,
+        "width": 70,
+        "height": 22
+      },
+      "parentId": "117:1935",
+      "previewCharacters": "New Job"
+    },
+    {
+      "id": "117:1943",
+      "name": "7m ago",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11357,
+        "y": 11508,
+        "width": 39,
+        "height": 16
+      },
+      "parentId": "117:1942",
+      "previewCharacters": "7m ago"
+    },
+    {
+      "id": "117:1944",
+      "name": "You are hired",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11566,
+        "y": 11520,
+        "width": 80,
+        "height": 18
+      },
+      "parentId": "117:1942",
+      "previewCharacters": "You are hired"
+    },
+    {
+      "id": "117:1945",
+      "name": "Steve Case",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11566,
+        "y": 11494,
+        "width": 92,
+        "height": 22
+      },
+      "parentId": "117:1942",
+      "previewCharacters": "Steve Case"
+    },
+    {
+      "id": "117:1950",
+      "name": "1m ago",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11355,
+        "y": 11402,
+        "width": 37,
+        "height": 16
+      },
+      "parentId": "117:1949",
+      "previewCharacters": "1m ago"
+    },
+    {
+      "id": "117:1951",
+      "name": "You got a new offer",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11566,
+        "y": 11414,
+        "width": 117,
+        "height": 18
+      },
+      "parentId": "117:1949",
+      "previewCharacters": "You got a new offer"
+    },
+    {
+      "id": "117:1952",
+      "name": "Good News",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11566,
+        "y": 11388,
+        "width": 92,
+        "height": 22
+      },
+      "parentId": "117:1949",
+      "previewCharacters": "Good News"
+    },
+    {
+      "id": "117:1955",
+      "name": "Notification",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11566,
+        "y": 11283,
+        "width": 144,
+        "height": 30
+      },
+      "parentId": "117:1954",
+      "previewCharacters": "Notification"
+    },
+    {
+      "id": "117:1753",
+      "name": "Add Now",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10363,
+        "y": 10863,
+        "width": 85,
+        "height": 24
+      },
+      "parentId": "117:1751",
+      "previewCharacters": "Add Now"
+    },
+    {
+      "id": "117:1757",
+      "name": "768",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10258,
+        "y": 10723,
+        "width": 30,
+        "height": 23
+      },
+      "parentId": "117:1756",
+      "previewCharacters": "768"
+    },
+    {
+      "id": "117:1761",
+      "name": "CVC",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10306,
+        "y": 10665,
+        "width": 39,
+        "height": 24
+      },
+      "parentId": "117:1760",
+      "previewCharacters": "CVC"
+    },
+    {
+      "id": "117:1765",
+      "name": "0/30",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10445,
+        "y": 10722,
+        "width": 39,
+        "height": 23
+      },
+      "parentId": "117:1764",
+      "previewCharacters": "0/30"
+    },
+    {
+      "id": "117:1768",
+      "name": "Expire Date",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10496,
+        "y": 10665,
+        "width": 102,
+        "height": 21
+      },
+      "parentId": "117:1762",
+      "previewCharacters": "Expire Date"
+    },
+    {
+      "id": "117:1775",
+      "name": "9148 8289 8472 3197",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10472,
+        "y": 10600,
+        "width": 177,
+        "height": 22
+      },
+      "parentId": "117:1774",
+      "previewCharacters": "9148  8289  8472  3197"
+    },
+    {
+      "id": "117:1777",
+      "name": "Card No",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10488,
+        "y": 10541,
+        "width": 72,
+        "height": 24
+      },
+      "parentId": "117:1776",
+      "previewCharacters": "Card No"
+    },
+    {
+      "id": "117:1781",
+      "name": "Arthur Dorrance",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10472,
+        "y": 10476,
+        "width": 130,
+        "height": 22
+      },
+      "parentId": "117:1780",
+      "previewCharacters": "Arthur Dorrance"
+    },
+    {
+      "id": "117:1783",
+      "name": "Cardholder Name",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10488,
+        "y": 10417,
+        "width": 155,
+        "height": 24
+      },
+      "parentId": "117:1782",
+      "previewCharacters": "Cardholder Name"
+    },
+    {
+      "id": "117:1788",
+      "name": "Arthur Dorrance",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10472,
+        "y": 10345,
+        "width": 131,
+        "height": 23
+      },
+      "parentId": "117:1787",
+      "previewCharacters": "Arthur Dorrance"
+    },
+    {
+      "id": "117:1790",
+      "name": "Exp. Date",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10219,
+        "y": 10341,
+        "width": 46.765625,
+        "height": 13.8173828125
+      },
+      "parentId": "117:1789",
+      "previewCharacters": "Exp. Date"
+    },
+    {
+      "id": "117:1791",
+      "name": "02/30",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10216,
+        "y": 10359,
+        "width": 41,
+        "height": 13
+      },
+      "parentId": "117:1789",
+      "previewCharacters": "02/30"
+    },
+    {
+      "id": "117:1796",
+      "name": "3197",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10301,
+        "y": 10295,
+        "width": 47,
+        "height": 22
+      },
+      "parentId": "117:1795",
+      "previewCharacters": "3197"
+    },
+    {
+      "id": "117:1797",
+      "name": "****",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10358,
+        "y": 10297,
+        "width": 45,
+        "height": 20
+      },
+      "parentId": "117:1795",
+      "previewCharacters": "****"
+    },
+    {
+      "id": "117:1798",
+      "name": "****",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10415,
+        "y": 10297,
+        "width": 45,
+        "height": 20
+      },
+      "parentId": "117:1795",
+      "previewCharacters": "****"
+    },
+    {
+      "id": "117:1799",
+      "name": "****",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10472,
+        "y": 10297,
+        "width": 45,
+        "height": 20
+      },
+      "parentId": "117:1795",
+      "previewCharacters": "****"
+    },
+    {
+      "id": "117:1803",
+      "name": "USD",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10462,
+        "y": 10245,
+        "width": 29,
+        "height": 22
+      },
+      "parentId": "117:1801",
+      "previewCharacters": "USD"
+    },
+    {
+      "id": "117:1804",
+      "name": "978.85",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10415,
+        "y": 10243,
+        "width": 74,
+        "height": 26
+      },
+      "parentId": "117:1800",
+      "previewCharacters": "978.85"
+    },
+    {
+      "id": "117:1805",
+      "name": "Current Balance",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10472,
+        "y": 10211,
+        "width": 113,
+        "height": 22
+      },
+      "parentId": "117:1786",
+      "previewCharacters": "Current Balance"
+    },
+    {
+      "id": "117:1807",
+      "name": "Card Details",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10418,
+        "y": 10113,
+        "width": 154,
+        "height": 30
+      },
+      "parentId": "117:1806",
+      "previewCharacters": "Card Details"
+    },
+    {
+      "id": "117:1698",
+      "name": "Add Now",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10937,
+        "y": 10863,
+        "width": 85,
+        "height": 24
+      },
+      "parentId": "117:1696",
+      "previewCharacters": "Add Now"
+    },
+    {
+      "id": "117:1705",
+      "name": "CVC",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10880,
+        "y": 10665,
+        "width": 39,
+        "height": 24
+      },
+      "parentId": "117:1704",
+      "previewCharacters": "CVC"
+    },
+    {
+      "id": "117:1710",
+      "name": "Expire Date",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11070,
+        "y": 10665,
+        "width": 102,
+        "height": 21
+      },
+      "parentId": "117:1706",
+      "previewCharacters": "Expire Date"
+    },
+    {
+      "id": "117:1717",
+      "name": "Card No",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11062,
+        "y": 10541,
+        "width": 72,
+        "height": 24
+      },
+      "parentId": "117:1716",
+      "previewCharacters": "Card No"
+    },
+    {
+      "id": "117:1720",
+      "name": "Cardholder Name",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11062,
+        "y": 10417,
+        "width": 155,
+        "height": 24
+      },
+      "parentId": "117:1718",
+      "previewCharacters": "Cardholder Name"
+    },
+    {
+      "id": "117:1725",
+      "name": "Name Of Card",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11046,
+        "y": 10345,
+        "width": 131,
+        "height": 23
+      },
+      "parentId": "117:1724",
+      "previewCharacters": "Name Of Card"
+    },
+    {
+      "id": "117:1727",
+      "name": "Exp. Date",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10793,
+        "y": 10341,
+        "width": 46.765625,
+        "height": 13.8173828125
+      },
+      "parentId": "117:1726",
+      "previewCharacters": "Exp. Date"
+    },
+    {
+      "id": "117:1728",
+      "name": "00/00",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10790,
+        "y": 10359,
+        "width": 41,
+        "height": 13
+      },
+      "parentId": "117:1726",
+      "previewCharacters": "00/00"
+    },
+    {
+      "id": "117:1733",
+      "name": "****",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10932,
+        "y": 10297,
+        "width": 45,
+        "height": 20
+      },
+      "parentId": "117:1732",
+      "previewCharacters": "****"
+    },
+    {
+      "id": "117:1734",
+      "name": "****",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10875,
+        "y": 10297,
+        "width": 45,
+        "height": 20
+      },
+      "parentId": "117:1732",
+      "previewCharacters": "****"
+    },
+    {
+      "id": "117:1735",
+      "name": "****",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10989,
+        "y": 10297,
+        "width": 45,
+        "height": 20
+      },
+      "parentId": "117:1732",
+      "previewCharacters": "****"
+    },
+    {
+      "id": "117:1736",
+      "name": "****",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11046,
+        "y": 10297,
+        "width": 45,
+        "height": 20
+      },
+      "parentId": "117:1732",
+      "previewCharacters": "****"
+    },
+    {
+      "id": "117:1740",
+      "name": "USD",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11036,
+        "y": 10245,
+        "width": 29,
+        "height": 22
+      },
+      "parentId": "117:1738",
+      "previewCharacters": "USD"
+    },
+    {
+      "id": "117:1741",
+      "name": "000.00",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10989,
+        "y": 10243,
+        "width": 79,
+        "height": 26
+      },
+      "parentId": "117:1737",
+      "previewCharacters": "000.00"
+    },
+    {
+      "id": "117:1742",
+      "name": "Current Balance",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11046,
+        "y": 10211,
+        "width": 113,
+        "height": 22
+      },
+      "parentId": "117:1723",
+      "previewCharacters": "Current Balance"
+    },
+    {
+      "id": "117:1744",
+      "name": "Card Details",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10992,
+        "y": 10113,
+        "width": 154,
+        "height": 30
+      },
+      "parentId": "117:1743",
+      "previewCharacters": "Card Details"
+    },
+    {
+      "id": "117:1816",
+      "name": "Payment",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11512,
+        "y": 10863,
+        "width": 87,
+        "height": 24
+      },
+      "parentId": "117:1814",
+      "previewCharacters": "Payment"
+    },
+    {
+      "id": "117:1820",
+      "name": "American Express",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11516,
+        "y": 10582,
+        "width": 144,
+        "height": 24
+      },
+      "parentId": "117:1819",
+      "previewCharacters": "American Express"
+    },
+    {
+      "id": "117:1821",
+      "name": "xxxx - xxxx - xxxx -",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11516,
+        "y": 10610,
+        "width": 138,
+        "height": 18
+      },
+      "parentId": "117:1819",
+      "previewCharacters": "xxxx - xxxx - xxxx - 9716"
+    },
+    {
+      "id": "117:1839",
+      "name": "American Express",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11516,
+        "y": 10462,
+        "width": 55,
+        "height": 24
+      },
+      "parentId": "117:1838",
+      "previewCharacters": "PayPal"
+    },
+    {
+      "id": "117:1840",
+      "name": "xxxx - xxxx - xxxx -",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11516,
+        "y": 10490,
+        "width": 139,
+        "height": 18
+      },
+      "parentId": "117:1838",
+      "previewCharacters": "xxxx - xxxx - xxxx - 8961"
+    },
+    {
+      "id": "117:1857",
+      "name": "Visa Master",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11516,
+        "y": 10342,
+        "width": 95,
+        "height": 24
+      },
+      "parentId": "117:1856",
+      "previewCharacters": "Visa Master"
+    },
+    {
+      "id": "117:1858",
+      "name": "xxxx - xxxx - xxxx -",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11516,
+        "y": 10370,
+        "width": 141,
+        "height": 18
+      },
+      "parentId": "117:1856",
+      "previewCharacters": "xxxx - xxxx - xxxx - 7863"
+    },
+    {
+      "id": "117:1878",
+      "name": "xxxx - xxxx - xxxx -",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11516,
+        "y": 10250,
+        "width": 137,
+        "height": 18
+      },
+      "parentId": "117:1877",
+      "previewCharacters": "xxxx - xxxx - xxxx - 3197"
+    },
+    {
+      "id": "117:1879",
+      "name": "Master Card",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11516,
+        "y": 10222,
+        "width": 101,
+        "height": 24
+      },
+      "parentId": "117:1877",
+      "previewCharacters": "Master Card"
+    },
+    {
+      "id": "117:1892",
+      "name": "Payment Methods",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11566,
+        "y": 10113,
+        "width": 227,
+        "height": 30
+      },
+      "parentId": "117:1891",
+      "previewCharacters": "Payment Methods"
+    },
+    {
+      "id": "117:55",
+      "name": "About App",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12144,
+        "y": 10788,
+        "width": 77,
+        "height": 20
+      },
+      "parentId": "117:51",
+      "previewCharacters": "About App"
+    },
+    {
+      "id": "117:66",
+      "name": "Earning",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12144,
+        "y": 10706,
+        "width": 56,
+        "height": 20
+      },
+      "parentId": "117:62",
+      "previewCharacters": "Earning"
+    },
+    {
+      "id": "117:74",
+      "name": "Notification",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12144,
+        "y": 10624,
+        "width": 84,
+        "height": 20
+      },
+      "parentId": "117:70",
+      "previewCharacters": "Notification"
+    },
+    {
+      "id": "117:85",
+      "name": "Language",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12144,
+        "y": 10542,
+        "width": 73,
+        "height": 20
+      },
+      "parentId": "117:81",
+      "previewCharacters": "Language"
+    },
+    {
+      "id": "117:86",
+      "name": "English",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11966,
+        "y": 10543,
+        "width": 42,
+        "height": 18
+      },
+      "parentId": "117:81",
+      "previewCharacters": "English"
+    },
+    {
+      "id": "117:103",
+      "name": "Off",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11944,
+        "y": 10461,
+        "width": 18,
+        "height": 18
+      },
+      "parentId": "117:99",
+      "previewCharacters": "Off"
+    },
+    {
+      "id": "117:104",
+      "name": "Dark Mode",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12144,
+        "y": 10460,
+        "width": 79,
+        "height": 20
+      },
+      "parentId": "117:99",
+      "previewCharacters": "Dark Mode"
+    },
+    {
+      "id": "117:108",
+      "name": "Settings",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12218,
+        "y": 10383,
+        "width": 102,
+        "height": 30
+      },
+      "parentId": "117:50",
+      "previewCharacters": "Settings"
+    },
+    {
+      "id": "117:115",
+      "name": "Rose Alleyson",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12124,
+        "y": 10283,
+        "width": 129,
+        "height": 24
+      },
+      "parentId": "117:114",
+      "previewCharacters": "Rose Alleyson"
+    },
+    {
+      "id": "117:116",
+      "name": "Manage Account",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12124,
+        "y": 10315,
+        "width": 103,
+        "height": 18
+      },
+      "parentId": "117:114",
+      "previewCharacters": "Manage Account"
+    },
+    {
+      "id": "117:118",
+      "name": "Other Account",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12218,
+        "y": 10203,
+        "width": 180,
+        "height": 30
+      },
+      "parentId": "117:109",
+      "previewCharacters": "Other Account"
+    },
+    {
+      "id": "117:120",
+      "name": "Settings",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12140,
+        "y": 10113,
+        "width": 102,
+        "height": 30
+      },
+      "parentId": "117:119",
+      "previewCharacters": "Settings"
+    },
+    {
+      "id": "117:127",
+      "name": "Sign out",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10446,
+        "y": 9688,
+        "width": 60,
+        "height": 20
+      },
+      "parentId": "117:125",
+      "previewCharacters": "Sign out"
+    },
+    {
+      "id": "117:135",
+      "name": "Help",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10422,
+        "y": 9553,
+        "width": 33,
+        "height": 20
+      },
+      "parentId": "117:131",
+      "previewCharacters": "Help"
+    },
+    {
+      "id": "117:149",
+      "name": "Settings",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10422,
+        "y": 9471,
+        "width": 60,
+        "height": 20
+      },
+      "parentId": "117:145",
+      "previewCharacters": "Settings"
+    },
+    {
+      "id": "117:160",
+      "name": "Notification",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10422,
+        "y": 9389,
+        "width": 84,
+        "height": 20
+      },
+      "parentId": "117:156",
+      "previewCharacters": "Notification"
+    },
+    {
+      "id": "117:177",
+      "name": "My Account",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10422,
+        "y": 9307,
+        "width": 86,
+        "height": 20
+      },
+      "parentId": "117:167",
+      "previewCharacters": "My Account"
+    },
+    {
+      "id": "117:179",
+      "name": "Arthur Dorrance",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10496,
+        "y": 9177,
+        "width": 135,
+        "height": 75
+      },
+      "parentId": "117:178",
+      "previewCharacters": "Arthur\nDorrance"
+    },
+    {
+      "id": "117:182",
+      "name": "Profile",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10418,
+        "y": 8943,
+        "width": 77,
+        "height": 30
+      },
+      "parentId": "117:181",
+      "previewCharacters": "Profile"
+    },
+    {
+      "id": "117:190",
+      "name": "12 DEC Copy",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10884,
+        "y": 9649,
+        "width": 39,
+        "height": 20
+      },
+      "parentId": "117:189",
+      "previewCharacters": "15 Jul"
+    },
+    {
+      "id": "117:191",
+      "name": "10 DEC Copy",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10973,
+        "y": 9649,
+        "width": 39,
+        "height": 20
+      },
+      "parentId": "117:189",
+      "previewCharacters": "10 Jul"
+    },
+    {
+      "id": "117:192",
+      "name": "15 DEC Copy",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10796,
+        "y": 9649,
+        "width": 42,
+        "height": 20
+      },
+      "parentId": "117:189",
+      "previewCharacters": "20 Jul"
+    },
+    {
+      "id": "117:193",
+      "name": "5 DEC Copy",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11056,
+        "y": 9649,
+        "width": 34,
+        "height": 20
+      },
+      "parentId": "117:189",
+      "previewCharacters": "5 Jul"
+    },
+    {
+      "id": "117:210",
+      "name": "10% Increase",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10856,
+        "y": 9485,
+        "width": 102,
+        "height": 24
+      },
+      "parentId": "117:209",
+      "previewCharacters": "10% Increase"
+    },
+    {
+      "id": "117:211",
+      "name": "DAYS",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11056,
+        "y": 9486,
+        "width": 68,
+        "height": 22
+      },
+      "parentId": "117:209",
+      "previewCharacters": "Monthly"
+    },
+    {
+      "id": "117:216",
+      "name": "50k",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11045,
+        "y": 9115,
+        "width": 20,
+        "height": 18
+      },
+      "parentId": "117:215",
+      "previewCharacters": "50k"
+    },
+    {
+      "id": "117:217",
+      "name": "40k",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11046,
+        "y": 9173,
+        "width": 22,
+        "height": 16
+      },
+      "parentId": "117:215",
+      "previewCharacters": "40k"
+    },
+    {
+      "id": "117:218",
+      "name": "30k",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11045.5,
+        "y": 9231,
+        "width": 21,
+        "height": 16
+      },
+      "parentId": "117:215",
+      "previewCharacters": "30k"
+    },
+    {
+      "id": "117:219",
+      "name": "20k",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11045.5,
+        "y": 9289,
+        "width": 21,
+        "height": 16
+      },
+      "parentId": "117:215",
+      "previewCharacters": "20k"
+    },
+    {
+      "id": "117:220",
+      "name": "10k",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11045,
+        "y": 9347,
+        "width": 19,
+        "height": 16
+      },
+      "parentId": "117:215",
+      "previewCharacters": "10k"
+    },
+    {
+      "id": "117:222",
+      "name": "Sun",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11006,
+        "y": 9381,
+        "width": 23.19921875,
+        "height": 16
+      },
+      "parentId": "117:221",
+      "previewCharacters": "Sun"
+    },
+    {
+      "id": "117:223",
+      "name": "Mon",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10965,
+        "y": 9381,
+        "width": 26.2255859375,
+        "height": 16
+      },
+      "parentId": "117:221",
+      "previewCharacters": "Mon"
+    },
+    {
+      "id": "117:224",
+      "name": "Tue",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10921,
+        "y": 9381,
+        "width": 20.1728515625,
+        "height": 16
+      },
+      "parentId": "117:221",
+      "previewCharacters": "Tue"
+    },
+    {
+      "id": "117:225",
+      "name": "Wed",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10883,
+        "y": 9381,
+        "width": 25.216796875,
+        "height": 16
+      },
+      "parentId": "117:221",
+      "previewCharacters": "Wed"
+    },
+    {
+      "id": "117:226",
+      "name": "Thu",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10840,
+        "y": 9381,
+        "width": 22.1904296875,
+        "height": 16
+      },
+      "parentId": "117:221",
+      "previewCharacters": "Thu"
+    },
+    {
+      "id": "117:227",
+      "name": "Fri",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10800,
+        "y": 9381,
+        "width": 17.1474609375,
+        "height": 16
+      },
+      "parentId": "117:221",
+      "previewCharacters": "Fri"
+    },
+    {
+      "id": "117:228",
+      "name": "Sat",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10765,
+        "y": 9381,
+        "width": 21.181640625,
+        "height": 16
+      },
+      "parentId": "117:221",
+      "previewCharacters": "Sat"
+    },
+    {
+      "id": "117:237",
+      "name": "+ $230.00",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10909,
+        "y": 9136,
+        "width": 57,
+        "height": 18
+      },
+      "parentId": "117:232",
+      "previewCharacters": "$4092.00"
+    },
+    {
+      "id": "117:243",
+      "name": "25 Jul",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10816,
+        "y": 9065,
+        "width": 36,
+        "height": 18
+      },
+      "parentId": "117:241",
+      "previewCharacters": "25 Jul"
+    },
+    {
+      "id": "117:244",
+      "name": "Earning",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11046,
+        "y": 9062,
+        "width": 72,
+        "height": 24
+      },
+      "parentId": "117:238",
+      "previewCharacters": "Earning"
+    },
+    {
+      "id": "117:246",
+      "name": "Activity",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10992,
+        "y": 8943,
+        "width": 94,
+        "height": 30
+      },
+      "parentId": "117:245",
+      "previewCharacters": "Activity"
+    },
+    {
+      "id": "117:255",
+      "name": "Apply Filter",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11524,
+        "y": 9693,
+        "width": 110,
+        "height": 24
+      },
+      "parentId": "117:253",
+      "previewCharacters": "Apply Filter"
+    },
+    {
+      "id": "117:259",
+      "name": "Contact",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11301,
+        "y": 9558,
+        "width": 58,
+        "height": 20
+      },
+      "parentId": "117:257",
+      "previewCharacters": "Contact"
+    },
+    {
+      "id": "117:262",
+      "name": "Part Time",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11458,
+        "y": 9558,
+        "width": 68,
+        "height": 20
+      },
+      "parentId": "117:260",
+      "previewCharacters": "Part Time"
+    },
+    {
+      "id": "117:265",
+      "name": "Full Time",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11607,
+        "y": 9558,
+        "width": 63,
+        "height": 20
+      },
+      "parentId": "117:263",
+      "previewCharacters": "Full Time"
+    },
+    {
+      "id": "117:266",
+      "name": "Job Type",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11644,
+        "y": 9496,
+        "width": 85,
+        "height": 24
+      },
+      "parentId": "117:256",
+      "previewCharacters": "Job Type"
+    },
+    {
+      "id": "117:279",
+      "name": "$90.00",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11433,
+        "y": 9360,
+        "width": 48,
+        "height": 20
+      },
+      "parentId": "117:277",
+      "previewCharacters": "$90.00"
+    },
+    {
+      "id": "117:282",
+      "name": "$00.00",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11620,
+        "y": 9360,
+        "width": 48,
+        "height": 20
+      },
+      "parentId": "117:280",
+      "previewCharacters": "$00.00"
+    },
+    {
+      "id": "117:283",
+      "name": "Proce",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11644,
+        "y": 9295,
+        "width": 52,
+        "height": 24
+      },
+      "parentId": "117:267",
+      "previewCharacters": "Proce"
+    },
+    {
+      "id": "117:288",
+      "name": "New York, NY 10003",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11620,
+        "y": 9226,
+        "width": 132,
+        "height": 20
+      },
+      "parentId": "117:286",
+      "previewCharacters": "New York, NY 10003"
+    },
+    {
+      "id": "117:289",
+      "name": "Location",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11644,
+        "y": 9161,
+        "width": 80,
+        "height": 24
+      },
+      "parentId": "117:284",
+      "previewCharacters": "Location"
+    },
+    {
+      "id": "117:294",
+      "name": "Business Management",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11620,
+        "y": 9092,
+        "width": 159,
+        "height": 20
+      },
+      "parentId": "117:292",
+      "previewCharacters": "Business Management"
+    },
+    {
+      "id": "117:295",
+      "name": "Category",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11644,
+        "y": 9027,
+        "width": 87,
+        "height": 24
+      },
+      "parentId": "117:290",
+      "previewCharacters": "Category"
+    },
+    {
+      "id": "117:297",
+      "name": "Filter",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11566,
+        "y": 8943,
+        "width": 62,
+        "height": 30
+      },
+      "parentId": "117:296",
+      "previewCharacters": "Filter"
+    },
+    {
+      "id": "117:306",
+      "name": "Apply Filter",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12098,
+        "y": 9693,
+        "width": 110,
+        "height": 24
+      },
+      "parentId": "117:304",
+      "previewCharacters": "Apply Filter"
+    },
+    {
+      "id": "117:310",
+      "name": "Contact",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11875,
+        "y": 9556,
+        "width": 58,
+        "height": 20
+      },
+      "parentId": "117:308",
+      "previewCharacters": "Contact"
+    },
+    {
+      "id": "117:313",
+      "name": "Part Time",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12032,
+        "y": 9556,
+        "width": 68,
+        "height": 20
+      },
+      "parentId": "117:311",
+      "previewCharacters": "Part Time"
+    },
+    {
+      "id": "117:316",
+      "name": "Full Time",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12181,
+        "y": 9556,
+        "width": 63,
+        "height": 20
+      },
+      "parentId": "117:314",
+      "previewCharacters": "Full Time"
+    },
+    {
+      "id": "117:317",
+      "name": "Job Type",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12218,
+        "y": 9494,
+        "width": 85,
+        "height": 24
+      },
+      "parentId": "117:307",
+      "previewCharacters": "Job Type"
+    },
+    {
+      "id": "117:329",
+      "name": "$00.00",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12007,
+        "y": 9358,
+        "width": 48,
+        "height": 20
+      },
+      "parentId": "117:327",
+      "previewCharacters": "$00.00"
+    },
+    {
+      "id": "117:332",
+      "name": "$00.00",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12194,
+        "y": 9358,
+        "width": 48,
+        "height": 20
+      },
+      "parentId": "117:330",
+      "previewCharacters": "$00.00"
+    },
+    {
+      "id": "117:333",
+      "name": "Proce",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12218,
+        "y": 9293,
+        "width": 52,
+        "height": 24
+      },
+      "parentId": "117:318",
+      "previewCharacters": "Proce"
+    },
+    {
+      "id": "117:338",
+      "name": "Select location",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12194,
+        "y": 9224,
+        "width": 103,
+        "height": 20
+      },
+      "parentId": "117:336",
+      "previewCharacters": "Select location"
+    },
+    {
+      "id": "117:339",
+      "name": "Location",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12218,
+        "y": 9159,
+        "width": 80,
+        "height": 24
+      },
+      "parentId": "117:334",
+      "previewCharacters": "Location"
+    },
+    {
+      "id": "117:344",
+      "name": "Select a category",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12194,
+        "y": 9090,
+        "width": 123,
+        "height": 20
+      },
+      "parentId": "117:342",
+      "previewCharacters": "Select a category "
+    },
+    {
+      "id": "117:345",
+      "name": "Category",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12218,
+        "y": 9025,
+        "width": 87,
+        "height": 24
+      },
+      "parentId": "117:340",
+      "previewCharacters": "Category"
+    },
+    {
+      "id": "117:347",
+      "name": "Filter",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12140,
+        "y": 8943,
+        "width": 62,
+        "height": 30
+      },
+      "parentId": "117:346",
+      "previewCharacters": "Filter"
+    },
+    {
+      "id": "117:445",
+      "name": "05/03/2021",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10237,
+        "y": 8520,
+        "width": 75,
+        "height": 18
+      },
+      "parentId": "117:444",
+      "previewCharacters": "05/03/2021"
+    },
+    {
+      "id": "117:446",
+      "name": "Read more.....",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10480,
+        "y": 8520,
+        "width": 91,
+        "height": 18
+      },
+      "parentId": "117:444",
+      "previewCharacters": "Read more....."
+    },
+    {
+      "id": "117:447",
+      "name": "Discuss the clinical application of velocity criteria for grading of stenosis in the vasculature including dialysis grafts, endovascular interventions in the aorta and peripheral system, and bypass grafts",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10480,
+        "y": 8432,
+        "width": 318,
+        "height": 72
+      },
+      "parentId": "117:444",
+      "previewCharacters": "Discuss the clinical application of velocity criteria for grading of stenosis in the vasculature including dialysis grafts, endovascular interventions in the aorta and peripheral system, and bypass gr…(+4)"
+    },
+    {
+      "id": "117:456",
+      "name": "1 June",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10430,
+        "y": 8402,
+        "width": 29,
+        "height": 12
+      },
+      "parentId": "117:455",
+      "previewCharacters": "1 June"
+    },
+    {
+      "id": "117:457",
+      "name": "Grayson Leo",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10430,
+        "y": 8380,
+        "width": 82,
+        "height": 20
+      },
+      "parentId": "117:455",
+      "previewCharacters": "Grayson Leo"
+    },
+    {
+      "id": "117:463",
+      "name": "Apply",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10349,
+        "y": 8523,
+        "width": 56,
+        "height": 24
+      },
+      "parentId": "117:461",
+      "previewCharacters": "Apply"
+    },
+    {
+      "id": "117:471",
+      "name": "Review",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10226,
+        "y": 8297,
+        "width": 56,
+        "height": 22
+      },
+      "parentId": "117:470",
+      "previewCharacters": "Review"
+    },
+    {
+      "id": "117:472",
+      "name": "Map",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10325,
+        "y": 8297,
+        "width": 36,
+        "height": 22
+      },
+      "parentId": "117:470",
+      "previewCharacters": "Map"
+    },
+    {
+      "id": "117:473",
+      "name": "Discription",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10472,
+        "y": 8297,
+        "width": 84,
+        "height": 22
+      },
+      "parentId": "117:470",
+      "previewCharacters": "Discription "
+    },
+    {
+      "id": "117:476",
+      "name": "$45.00/Hour",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10496,
+        "y": 8216,
+        "width": 133,
+        "height": 30
+      },
+      "parentId": "117:475",
+      "previewCharacters": "$45.00/Hour"
+    },
+    {
+      "id": "117:479",
+      "name": "4.8",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10168,
+        "y": 8172,
+        "width": 22,
+        "height": 19
+      },
+      "parentId": "117:477",
+      "previewCharacters": "4.8"
+    },
+    {
+      "id": "117:481",
+      "name": "New York, NY 10003",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10471,
+        "y": 8172,
+        "width": 116,
+        "height": 18
+      },
+      "parentId": "117:480",
+      "previewCharacters": "New York, NY 10003"
+    },
+    {
+      "id": "117:486",
+      "name": "Business Continuity Project Manager",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10496,
+        "y": 8087,
+        "width": 274,
+        "height": 60
+      },
+      "parentId": "117:485",
+      "previewCharacters": "Business Continuity Project\nManager"
+    },
+    {
+      "id": "117:489",
+      "name": "Jobs",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10418,
+        "y": 7773,
+        "width": 59,
+        "height": 30
+      },
+      "parentId": "117:488",
+      "previewCharacters": "Jobs"
+    },
+    {
+      "id": "117:411",
+      "name": "Apply",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10923,
+        "y": 8523,
+        "width": 56,
+        "height": 24
+      },
+      "parentId": "117:409",
+      "previewCharacters": "Apply"
+    },
+    {
+      "id": "117:419",
+      "name": "Review",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10800,
+        "y": 8297,
+        "width": 56,
+        "height": 22
+      },
+      "parentId": "117:418",
+      "previewCharacters": "Review"
+    },
+    {
+      "id": "117:420",
+      "name": "Map",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10899,
+        "y": 8297,
+        "width": 36,
+        "height": 22
+      },
+      "parentId": "117:418",
+      "previewCharacters": "Map"
+    },
+    {
+      "id": "117:421",
+      "name": "Discription",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11046,
+        "y": 8297,
+        "width": 84,
+        "height": 22
+      },
+      "parentId": "117:418",
+      "previewCharacters": "Discription "
+    },
+    {
+      "id": "117:424",
+      "name": "$45.00/Hour",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11070,
+        "y": 8216,
+        "width": 133,
+        "height": 30
+      },
+      "parentId": "117:423",
+      "previewCharacters": "$45.00/Hour"
+    },
+    {
+      "id": "117:427",
+      "name": "4.8",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10742,
+        "y": 8172,
+        "width": 22,
+        "height": 19
+      },
+      "parentId": "117:425",
+      "previewCharacters": "4.8"
+    },
+    {
+      "id": "117:429",
+      "name": "New York, NY 10003",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11045,
+        "y": 8172,
+        "width": 116,
+        "height": 18
+      },
+      "parentId": "117:428",
+      "previewCharacters": "New York, NY 10003"
+    },
+    {
+      "id": "117:434",
+      "name": "Business Continuity Project Manager",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11070,
+        "y": 8087,
+        "width": 274,
+        "height": 60
+      },
+      "parentId": "117:433",
+      "previewCharacters": "Business Continuity Project\nManager"
+    },
+    {
+      "id": "117:437",
+      "name": "Jobs",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10992,
+        "y": 7773,
+        "width": 59,
+        "height": 30
+      },
+      "parentId": "117:436",
+      "previewCharacters": "Jobs"
+    },
+    {
+      "id": "117:359",
+      "name": "Review",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11374,
+        "y": 8297,
+        "width": 56,
+        "height": 22
+      },
+      "parentId": "117:358",
+      "previewCharacters": "Review"
+    },
+    {
+      "id": "117:360",
+      "name": "Map",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11473,
+        "y": 8297,
+        "width": 36,
+        "height": 22
+      },
+      "parentId": "117:358",
+      "previewCharacters": "Map"
+    },
+    {
+      "id": "117:361",
+      "name": "Discription",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11620,
+        "y": 8297,
+        "width": 84,
+        "height": 22
+      },
+      "parentId": "117:358",
+      "previewCharacters": "Discription "
+    },
+    {
+      "id": "117:363",
+      "name": "The Project Manager is primarily focused on supportin operational scalability critical in driving business operational and technolog projects, while shaping and buil scalable and sustainable processes in support of Visible’s growth. You have primar accounu for managing and delivering programs that maintain company compliance, support.",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11644,
+        "y": 8362,
+        "width": 350,
+        "height": 174
+      },
+      "parentId": "117:362",
+      "previewCharacters": "The Project Manager is primarily focused on supportin operational scalability critical in driving business operational and technolog projects, while shaping and buil scalable and sustainable processes…(+136)"
+    },
+    {
+      "id": "117:371",
+      "name": "Apply",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11497,
+        "y": 8523,
+        "width": 56,
+        "height": 24
+      },
+      "parentId": "117:369",
+      "previewCharacters": "Apply"
+    },
+    {
+      "id": "117:374",
+      "name": "$45.00/Hour",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11644,
+        "y": 8216,
+        "width": 133,
+        "height": 30
+      },
+      "parentId": "117:373",
+      "previewCharacters": "$45.00/Hour"
+    },
+    {
+      "id": "117:377",
+      "name": "4.8",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11316,
+        "y": 8172,
+        "width": 22,
+        "height": 19
+      },
+      "parentId": "117:375",
+      "previewCharacters": "4.8"
+    },
+    {
+      "id": "117:379",
+      "name": "New York, NY 10003",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11619,
+        "y": 8172,
+        "width": 116,
+        "height": 18
+      },
+      "parentId": "117:378",
+      "previewCharacters": "New York, NY 10003"
+    },
+    {
+      "id": "117:384",
+      "name": "Business Continuity Project Manager",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11644,
+        "y": 8087,
+        "width": 274,
+        "height": 60
+      },
+      "parentId": "117:383",
+      "previewCharacters": "Business Continuity Project\nManager"
+    },
+    {
+      "id": "117:387",
+      "name": "Jobs",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11566,
+        "y": 7773,
+        "width": 59,
+        "height": 30
+      },
+      "parentId": "117:386",
+      "previewCharacters": "Jobs"
+    },
+    {
+      "id": "117:918",
+      "name": "4.8",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11914,
+        "y": 8510,
+        "width": 22,
+        "height": 19
+      },
+      "parentId": "117:916",
+      "previewCharacters": "4.8"
+    },
+    {
+      "id": "117:920",
+      "name": "$55.00/Hour",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12086,
+        "y": 8510,
+        "width": 109,
+        "height": 24
+      },
+      "parentId": "117:919",
+      "previewCharacters": "$55.00/Hour"
+    },
+    {
+      "id": "117:921",
+      "name": "Sales Engineering",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12086,
+        "y": 8474,
+        "width": 162,
+        "height": 24
+      },
+      "parentId": "117:919",
+      "previewCharacters": "Sales Engineering"
+    },
+    {
+      "id": "117:927",
+      "name": "4.8",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11914,
+        "y": 8364,
+        "width": 22,
+        "height": 19
+      },
+      "parentId": "117:925",
+      "previewCharacters": "4.8"
+    },
+    {
+      "id": "117:929",
+      "name": "$55.00/Hour",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12086,
+        "y": 8364,
+        "width": 109,
+        "height": 24
+      },
+      "parentId": "117:928",
+      "previewCharacters": "$55.00/Hour"
+    },
+    {
+      "id": "117:930",
+      "name": "Pharmaceutical",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12086,
+        "y": 8328,
+        "width": 146,
+        "height": 24
+      },
+      "parentId": "117:928",
+      "previewCharacters": "Pharmaceutical"
+    },
+    {
+      "id": "117:936",
+      "name": "4.8",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11914,
+        "y": 8218,
+        "width": 22,
+        "height": 19
+      },
+      "parentId": "117:934",
+      "previewCharacters": "4.8"
+    },
+    {
+      "id": "117:938",
+      "name": "$55.00/Hour",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12086,
+        "y": 8218,
+        "width": 109,
+        "height": 24
+      },
+      "parentId": "117:937",
+      "previewCharacters": "$55.00/Hour"
+    },
+    {
+      "id": "117:939",
+      "name": "Civil Engineering",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12086,
+        "y": 8182,
+        "width": 152,
+        "height": 24
+      },
+      "parentId": "117:937",
+      "previewCharacters": "Civil Engineering"
+    },
+    {
+      "id": "117:945",
+      "name": "4.9",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11914,
+        "y": 8072,
+        "width": 22,
+        "height": 19
+      },
+      "parentId": "117:943",
+      "previewCharacters": "4.9"
+    },
+    {
+      "id": "117:947",
+      "name": "$55.00/Hour",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12086,
+        "y": 8072,
+        "width": 109,
+        "height": 24
+      },
+      "parentId": "117:946",
+      "previewCharacters": "$55.00/Hour"
+    },
+    {
+      "id": "117:948",
+      "name": "Sales Engineering",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12086,
+        "y": 8036,
+        "width": 162,
+        "height": 24
+      },
+      "parentId": "117:946",
+      "previewCharacters": "Sales Engineering"
+    },
+    {
+      "id": "117:954",
+      "name": "5.0",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11914,
+        "y": 7926,
+        "width": 22,
+        "height": 19
+      },
+      "parentId": "117:952",
+      "previewCharacters": "5.0"
+    },
+    {
+      "id": "117:956",
+      "name": "$55.00/Hour",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12086,
+        "y": 7926,
+        "width": 109,
+        "height": 24
+      },
+      "parentId": "117:955",
+      "previewCharacters": "$55.00/Hour"
+    },
+    {
+      "id": "117:957",
+      "name": "Administrative",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12086,
+        "y": 7890,
+        "width": 133,
+        "height": 24
+      },
+      "parentId": "117:955",
+      "previewCharacters": "Administrative"
+    },
+    {
+      "id": "117:965",
+      "name": "Profile",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11906,
+        "y": 8534,
+        "width": 38,
+        "height": 18
+      },
+      "parentId": "117:961",
+      "previewCharacters": "Profile"
+    },
+    {
+      "id": "117:967",
+      "name": "Notification",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12035,
+        "y": 8534,
+        "width": 70,
+        "height": 18
+      },
+      "parentId": "117:966",
+      "previewCharacters": "Notification"
+    },
+    {
+      "id": "117:973",
+      "name": "Save",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12123,
+        "y": 8534,
+        "width": 30,
+        "height": 18
+      },
+      "parentId": "117:972",
+      "previewCharacters": "Save"
+    },
+    {
+      "id": "117:978",
+      "name": "Home",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12218,
+        "y": 8534,
+        "width": 36,
+        "height": 18
+      },
+      "parentId": "117:977",
+      "previewCharacters": "Home"
+    },
+    {
+      "id": "117:982",
+      "name": "Popular Jobs",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12140,
+        "y": 7773,
+        "width": 163,
+        "height": 30
+      },
+      "parentId": "117:981",
+      "previewCharacters": "Popular Jobs"
+    },
+    {
+      "id": "117:650",
+      "name": "1980+ Jobs",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10268,
+        "y": 7274,
+        "width": 80,
+        "height": 20
+      },
+      "parentId": "117:649",
+      "previewCharacters": "1980+ Jobs"
+    },
+    {
+      "id": "117:651",
+      "name": "Design",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10260,
+        "y": 7242,
+        "width": 64,
+        "height": 24
+      },
+      "parentId": "117:649",
+      "previewCharacters": "Design"
+    },
+    {
+      "id": "117:671",
+      "name": "1050+ Jobs",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10455,
+        "y": 7280,
+        "width": 80,
+        "height": 20
+      },
+      "parentId": "117:670",
+      "previewCharacters": "1050+ Jobs"
+    },
+    {
+      "id": "117:672",
+      "name": "Medical",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10452,
+        "y": 7248,
+        "width": 74,
+        "height": 24
+      },
+      "parentId": "117:670",
+      "previewCharacters": "Medical"
+    },
+    {
+      "id": "117:698",
+      "name": "1750+ Jobs",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10267,
+        "y": 7054,
+        "width": 78,
+        "height": 20
+      },
+      "parentId": "117:697",
+      "previewCharacters": "1750+ Jobs"
+    },
+    {
+      "id": "117:699",
+      "name": "Management",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10291,
+        "y": 7022,
+        "width": 127,
+        "height": 24
+      },
+      "parentId": "117:697",
+      "previewCharacters": "Management"
+    },
+    {
+      "id": "117:734",
+      "name": "1280+ Jobs",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10455,
+        "y": 7060,
+        "width": 79,
+        "height": 20
+      },
+      "parentId": "117:733",
+      "previewCharacters": "1280+ Jobs"
+    },
+    {
+      "id": "117:735",
+      "name": "Education",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10462,
+        "y": 7028,
+        "width": 94,
+        "height": 24
+      },
+      "parentId": "117:733",
+      "previewCharacters": "Education"
+    },
+    {
+      "id": "117:755",
+      "name": "1350+ Jobs",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10267,
+        "y": 6840,
+        "width": 79,
+        "height": 20
+      },
+      "parentId": "117:754",
+      "previewCharacters": "1350+ Jobs"
+    },
+    {
+      "id": "117:756",
+      "name": "Food",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10250,
+        "y": 6808,
+        "width": 46,
+        "height": 24
+      },
+      "parentId": "117:754",
+      "previewCharacters": "Food"
+    },
+    {
+      "id": "117:779",
+      "name": "1800+ Jobs",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10455,
+        "y": 6838,
+        "width": 80,
+        "height": 20
+      },
+      "parentId": "117:778",
+      "previewCharacters": "1800+ Jobs"
+    },
+    {
+      "id": "117:780",
+      "name": "Business",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10456,
+        "y": 6806,
+        "width": 82,
+        "height": 24
+      },
+      "parentId": "117:778",
+      "previewCharacters": "Business"
+    },
+    {
+      "id": "117:800",
+      "name": "Category",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10418,
+        "y": 6603,
+        "width": 116,
+        "height": 30
+      },
+      "parentId": "117:799",
+      "previewCharacters": "Category"
+    },
+    {
+      "id": "117:810",
+      "name": "Profile",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10184,
+        "y": 7364,
+        "width": 38,
+        "height": 18
+      },
+      "parentId": "117:806",
+      "previewCharacters": "Profile"
+    },
+    {
+      "id": "117:812",
+      "name": "Notification",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10313,
+        "y": 7364,
+        "width": 70,
+        "height": 18
+      },
+      "parentId": "117:811",
+      "previewCharacters": "Notification"
+    },
+    {
+      "id": "117:818",
+      "name": "Save",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10401,
+        "y": 7364,
+        "width": 30,
+        "height": 18
+      },
+      "parentId": "117:817",
+      "previewCharacters": "Save"
+    },
+    {
+      "id": "117:823",
+      "name": "Home",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10496,
+        "y": 7364,
+        "width": 36,
+        "height": 18
+      },
+      "parentId": "117:822",
+      "previewCharacters": "Home"
+    },
+    {
+      "id": "117:497",
+      "name": "Show All",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10936,
+        "y": 7265,
+        "width": 82,
+        "height": 24
+      },
+      "parentId": "117:495",
+      "previewCharacters": "Show All"
+    },
+    {
+      "id": "117:501",
+      "name": "1750+ Jobs",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10841,
+        "y": 7160,
+        "width": 78,
+        "height": 20
+      },
+      "parentId": "117:500",
+      "previewCharacters": "1750+ Jobs"
+    },
+    {
+      "id": "117:502",
+      "name": "Management",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10865,
+        "y": 7128,
+        "width": 127,
+        "height": 24
+      },
+      "parentId": "117:500",
+      "previewCharacters": "Management"
+    },
+    {
+      "id": "117:537",
+      "name": "1280+ Jobs",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11029,
+        "y": 7166,
+        "width": 79,
+        "height": 20
+      },
+      "parentId": "117:536",
+      "previewCharacters": "1280+ Jobs"
+    },
+    {
+      "id": "117:538",
+      "name": "Education",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11036,
+        "y": 7134,
+        "width": 94,
+        "height": 24
+      },
+      "parentId": "117:536",
+      "previewCharacters": "Education"
+    },
+    {
+      "id": "117:558",
+      "name": "1350+ Jobs",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10841,
+        "y": 6946,
+        "width": 79,
+        "height": 20
+      },
+      "parentId": "117:557",
+      "previewCharacters": "1350+ Jobs"
+    },
+    {
+      "id": "117:559",
+      "name": "Food",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10824,
+        "y": 6914,
+        "width": 46,
+        "height": 24
+      },
+      "parentId": "117:557",
+      "previewCharacters": "Food"
+    },
+    {
+      "id": "117:582",
+      "name": "1800+ Jobs",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11029,
+        "y": 6944,
+        "width": 80,
+        "height": 20
+      },
+      "parentId": "117:581",
+      "previewCharacters": "1800+ Jobs"
+    },
+    {
+      "id": "117:583",
+      "name": "Business",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11030,
+        "y": 6912,
+        "width": 82,
+        "height": 24
+      },
+      "parentId": "117:581",
+      "previewCharacters": "Business"
+    },
+    {
+      "id": "117:608",
+      "name": "Profile",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10758,
+        "y": 7364,
+        "width": 38,
+        "height": 18
+      },
+      "parentId": "117:604",
+      "previewCharacters": "Profile"
+    },
+    {
+      "id": "117:610",
+      "name": "Notification",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10887,
+        "y": 7364,
+        "width": 70,
+        "height": 18
+      },
+      "parentId": "117:609",
+      "previewCharacters": "Notification"
+    },
+    {
+      "id": "117:616",
+      "name": "Save",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10975,
+        "y": 7364,
+        "width": 30,
+        "height": 18
+      },
+      "parentId": "117:615",
+      "previewCharacters": "Save"
+    },
+    {
+      "id": "117:621",
+      "name": "Home",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11070,
+        "y": 7364,
+        "width": 36,
+        "height": 18
+      },
+      "parentId": "117:620",
+      "previewCharacters": "Home"
+    },
+    {
+      "id": "117:636",
+      "name": "Search",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11011,
+        "y": 6708,
+        "width": 50,
+        "height": 20
+      },
+      "parentId": "117:634",
+      "previewCharacters": "Search"
+    },
+    {
+      "id": "117:641",
+      "name": "Category",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10992,
+        "y": 6603,
+        "width": 116,
+        "height": 30
+      },
+      "parentId": "117:640",
+      "previewCharacters": "Category"
+    },
+    {
+      "id": "117:992",
+      "name": "4.8",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11340,
+        "y": 7278,
+        "width": 22,
+        "height": 19
+      },
+      "parentId": "117:990",
+      "previewCharacters": "4.8"
+    },
+    {
+      "id": "117:994",
+      "name": "Management Trainee",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11512,
+        "y": 7242,
+        "width": 197,
+        "height": 24
+      },
+      "parentId": "117:993",
+      "previewCharacters": "Management Trainee"
+    },
+    {
+      "id": "117:995",
+      "name": "$55.00/Hour",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11512,
+        "y": 7278,
+        "width": 109,
+        "height": 24
+      },
+      "parentId": "117:993",
+      "previewCharacters": "$55.00/Hour"
+    },
+    {
+      "id": "117:1001",
+      "name": "4.9",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11340,
+        "y": 7132,
+        "width": 22,
+        "height": 19
+      },
+      "parentId": "117:999",
+      "previewCharacters": "4.9"
+    },
+    {
+      "id": "117:1003",
+      "name": "Sales Engineering",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11512,
+        "y": 7096,
+        "width": 162,
+        "height": 24
+      },
+      "parentId": "117:1002",
+      "previewCharacters": "Sales Engineering"
+    },
+    {
+      "id": "117:1004",
+      "name": "$45.00/Hour",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11512,
+        "y": 7132,
+        "width": 110,
+        "height": 24
+      },
+      "parentId": "117:1002",
+      "previewCharacters": "$45.00/Hour"
+    },
+    {
+      "id": "117:1010",
+      "name": "5.0",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11340,
+        "y": 6986,
+        "width": 22,
+        "height": 19
+      },
+      "parentId": "117:1008",
+      "previewCharacters": "5.0"
+    },
+    {
+      "id": "117:1012",
+      "name": "$80.00/Hour",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11512,
+        "y": 6986,
+        "width": 109,
+        "height": 24
+      },
+      "parentId": "117:1011",
+      "previewCharacters": "$80.00/Hour"
+    },
+    {
+      "id": "117:1013",
+      "name": "Account Coordinator",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11512,
+        "y": 6950,
+        "width": 191,
+        "height": 24
+      },
+      "parentId": "117:1011",
+      "previewCharacters": "Account Coordinator"
+    },
+    {
+      "id": "117:1016",
+      "name": "View All",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11348,
+        "y": 6867,
+        "width": 54,
+        "height": 20
+      },
+      "parentId": "117:1015",
+      "previewCharacters": "View All"
+    },
+    {
+      "id": "117:1017",
+      "name": "Search Result",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11644,
+        "y": 6863,
+        "width": 156,
+        "height": 28
+      },
+      "parentId": "117:1015",
+      "previewCharacters": "Search Result"
+    },
+    {
+      "id": "117:1024",
+      "name": "Profile",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11332,
+        "y": 7364,
+        "width": 38,
+        "height": 18
+      },
+      "parentId": "117:1020",
+      "previewCharacters": "Profile"
+    },
+    {
+      "id": "117:1026",
+      "name": "Notification",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11461,
+        "y": 7364,
+        "width": 70,
+        "height": 18
+      },
+      "parentId": "117:1025",
+      "previewCharacters": "Notification"
+    },
+    {
+      "id": "117:1032",
+      "name": "Save",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11549,
+        "y": 7364,
+        "width": 30,
+        "height": 18
+      },
+      "parentId": "117:1031",
+      "previewCharacters": "Save"
+    },
+    {
+      "id": "117:1037",
+      "name": "Home",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11644,
+        "y": 7364,
+        "width": 36,
+        "height": 18
+      },
+      "parentId": "117:1036",
+      "previewCharacters": "Home"
+    },
+    {
+      "id": "117:1043",
+      "name": "All",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11354,
+        "y": 6797,
+        "width": 18,
+        "height": 20
+      },
+      "parentId": "117:1041",
+      "previewCharacters": "All"
+    },
+    {
+      "id": "117:1046",
+      "name": "Top",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11483,
+        "y": 6797,
+        "width": 27,
+        "height": 20
+      },
+      "parentId": "117:1044",
+      "previewCharacters": "Top"
+    },
+    {
+      "id": "117:1049",
+      "name": "New",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11610,
+        "y": 6797,
+        "width": 31,
+        "height": 20
+      },
+      "parentId": "117:1047",
+      "previewCharacters": "New"
+    },
+    {
+      "id": "117:1062",
+      "name": "Business Management",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11620,
+        "y": 6708,
+        "width": 162,
+        "height": 20
+      },
+      "parentId": "117:1060",
+      "previewCharacters": "Business Management"
+    },
+    {
+      "id": "117:1064",
+      "name": "Search",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11566,
+        "y": 6603,
+        "width": 87,
+        "height": 30
+      },
+      "parentId": "117:1063",
+      "previewCharacters": "Search"
+    },
+    {
+      "id": "117:832",
+      "name": "4.8",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11914,
+        "y": 7338,
+        "width": 22,
+        "height": 19
+      },
+      "parentId": "117:830",
+      "previewCharacters": "4.8"
+    },
+    {
+      "id": "117:834",
+      "name": "$55.00/Hour",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12086,
+        "y": 7338,
+        "width": 109,
+        "height": 24
+      },
+      "parentId": "117:833",
+      "previewCharacters": "$55.00/Hour"
+    },
+    {
+      "id": "117:835",
+      "name": "Pharmaceutical",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12086,
+        "y": 7302,
+        "width": 146,
+        "height": 24
+      },
+      "parentId": "117:833",
+      "previewCharacters": "Pharmaceutical"
+    },
+    {
+      "id": "117:841",
+      "name": "4.9",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11914,
+        "y": 7192,
+        "width": 22,
+        "height": 19
+      },
+      "parentId": "117:839",
+      "previewCharacters": "4.9"
+    },
+    {
+      "id": "117:843",
+      "name": "$55.00/Hour",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12086,
+        "y": 7192,
+        "width": 109,
+        "height": 24
+      },
+      "parentId": "117:842",
+      "previewCharacters": "$55.00/Hour"
+    },
+    {
+      "id": "117:844",
+      "name": "Sales Engineering",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12086,
+        "y": 7156,
+        "width": 162,
+        "height": 24
+      },
+      "parentId": "117:842",
+      "previewCharacters": "Sales Engineering"
+    },
+    {
+      "id": "117:850",
+      "name": "5.0",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11914,
+        "y": 7046,
+        "width": 22,
+        "height": 19
+      },
+      "parentId": "117:848",
+      "previewCharacters": "5.0"
+    },
+    {
+      "id": "117:852",
+      "name": "$55.00/Hour",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12086,
+        "y": 7046,
+        "width": 109,
+        "height": 24
+      },
+      "parentId": "117:851",
+      "previewCharacters": "$55.00/Hour"
+    },
+    {
+      "id": "117:853",
+      "name": "Administrative",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12086,
+        "y": 7010,
+        "width": 133,
+        "height": 24
+      },
+      "parentId": "117:851",
+      "previewCharacters": "Administrative"
+    },
+    {
+      "id": "117:856",
+      "name": "View All",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11922,
+        "y": 6927,
+        "width": 54,
+        "height": 20
+      },
+      "parentId": "117:855",
+      "previewCharacters": "View All"
+    },
+    {
+      "id": "117:857",
+      "name": "Popular Jobs",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12218,
+        "y": 6923,
+        "width": 149,
+        "height": 28
+      },
+      "parentId": "117:855",
+      "previewCharacters": "Popular Jobs"
+    },
+    {
+      "id": "117:864",
+      "name": "Profile",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11906,
+        "y": 7364,
+        "width": 38,
+        "height": 18
+      },
+      "parentId": "117:860",
+      "previewCharacters": "Profile"
+    },
+    {
+      "id": "117:866",
+      "name": "Notification",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12035,
+        "y": 7364,
+        "width": 70,
+        "height": 18
+      },
+      "parentId": "117:865",
+      "previewCharacters": "Notification"
+    },
+    {
+      "id": "117:872",
+      "name": "Save",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12123,
+        "y": 7364,
+        "width": 30,
+        "height": 18
+      },
+      "parentId": "117:871",
+      "previewCharacters": "Save"
+    },
+    {
+      "id": "117:877",
+      "name": "Home",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12218,
+        "y": 7364,
+        "width": 36,
+        "height": 18
+      },
+      "parentId": "117:876",
+      "previewCharacters": "Home"
+    },
+    {
+      "id": "117:883",
+      "name": "Accounting",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11887,
+        "y": 6857,
+        "width": 82,
+        "height": 20
+      },
+      "parentId": "117:881",
+      "previewCharacters": "Accounting"
+    },
+    {
+      "id": "117:886",
+      "name": "Real Estate",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12037,
+        "y": 6857,
+        "width": 79,
+        "height": 20
+      },
+      "parentId": "117:884",
+      "previewCharacters": "Real Estate"
+    },
+    {
+      "id": "117:889",
+      "name": "Engineering",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12192,
+        "y": 6857,
+        "width": 84,
+        "height": 20
+      },
+      "parentId": "117:887",
+      "previewCharacters": "Engineering"
+    },
+    {
+      "id": "117:890",
+      "name": "Recently Search",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12218,
+        "y": 6791,
+        "width": 185,
+        "height": 28
+      },
+      "parentId": "117:880",
+      "previewCharacters": "Recently Search"
+    },
+    {
+      "id": "117:903",
+      "name": "Search",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12159,
+        "y": 6708,
+        "width": 50,
+        "height": 20
+      },
+      "parentId": "117:901",
+      "previewCharacters": "Search"
+    },
+    {
+      "id": "117:908",
+      "name": "Search",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12140,
+        "y": 6603,
+        "width": 87,
+        "height": 30
+      },
+      "parentId": "117:907",
+      "previewCharacters": "Search"
+    },
+    {
+      "id": "117:1074",
+      "name": "4.8",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10192,
+        "y": 6085,
+        "width": 22,
+        "height": 19
+      },
+      "parentId": "117:1072",
+      "previewCharacters": "4.8"
+    },
+    {
+      "id": "117:1076",
+      "name": "$55.00/Hour",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10364,
+        "y": 6083,
+        "width": 109,
+        "height": 24
+      },
+      "parentId": "117:1075",
+      "previewCharacters": "$55.00/Hour"
+    },
+    {
+      "id": "117:1077",
+      "name": "Civil Engineering",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10364,
+        "y": 6047,
+        "width": 152,
+        "height": 24
+      },
+      "parentId": "117:1075",
+      "previewCharacters": "Civil Engineering"
+    },
+    {
+      "id": "117:1080",
+      "name": "View All",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10200,
+        "y": 5964,
+        "width": 54,
+        "height": 20
+      },
+      "parentId": "117:1079",
+      "previewCharacters": "View All"
+    },
+    {
+      "id": "117:1081",
+      "name": "Recently Posted",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10496,
+        "y": 5960,
+        "width": 182,
+        "height": 28
+      },
+      "parentId": "117:1079",
+      "previewCharacters": "Recently Posted"
+    },
+    {
+      "id": "117:1088",
+      "name": "Profile",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10184,
+        "y": 6194,
+        "width": 38,
+        "height": 18
+      },
+      "parentId": "117:1084",
+      "previewCharacters": "Profile"
+    },
+    {
+      "id": "117:1090",
+      "name": "Notification",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10313,
+        "y": 6194,
+        "width": 70,
+        "height": 18
+      },
+      "parentId": "117:1089",
+      "previewCharacters": "Notification"
+    },
+    {
+      "id": "117:1096",
+      "name": "Save",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10401,
+        "y": 6194,
+        "width": 30,
+        "height": 18
+      },
+      "parentId": "117:1095",
+      "previewCharacters": "Save"
+    },
+    {
+      "id": "117:1101",
+      "name": "Home",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10496,
+        "y": 6194,
+        "width": 36,
+        "height": 18
+      },
+      "parentId": "117:1100",
+      "previewCharacters": "Home"
+    },
+    {
+      "id": "117:1111",
+      "name": "$78.00/Hour",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10208,
+        "y": 5880,
+        "width": 108,
+        "height": 24
+      },
+      "parentId": "117:1110",
+      "previewCharacters": "$78.00/Hour"
+    },
+    {
+      "id": "117:1112",
+      "name": "Web Devoloper",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10208,
+        "y": 5844,
+        "width": 139,
+        "height": 24
+      },
+      "parentId": "117:1110",
+      "previewCharacters": "Web Devoloper"
+    },
+    {
+      "id": "117:1118",
+      "name": "4.9",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10302,
+        "y": 5882,
+        "width": 22,
+        "height": 19
+      },
+      "parentId": "117:1116",
+      "previewCharacters": "4.9"
+    },
+    {
+      "id": "117:1120",
+      "name": "$45.00/Hour",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10472,
+        "y": 5880,
+        "width": 110,
+        "height": 24
+      },
+      "parentId": "117:1119",
+      "previewCharacters": "$45.00/Hour"
+    },
+    {
+      "id": "117:1121",
+      "name": "Marketing Manager",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10472,
+        "y": 5844,
+        "width": 179,
+        "height": 24
+      },
+      "parentId": "117:1119",
+      "previewCharacters": "Marketing Manager"
+    },
+    {
+      "id": "117:1124",
+      "name": "View All",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10200,
+        "y": 5625,
+        "width": 54,
+        "height": 20
+      },
+      "parentId": "117:1123",
+      "previewCharacters": "View All"
+    },
+    {
+      "id": "117:1125",
+      "name": "Recommended",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10496,
+        "y": 5621,
+        "width": 175,
+        "height": 28
+      },
+      "parentId": "117:1123",
+      "previewCharacters": "Recommended "
+    },
+    {
+      "id": "117:1138",
+      "name": "Search",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10437,
+        "y": 5538,
+        "width": 50,
+        "height": 20
+      },
+      "parentId": "117:1136",
+      "previewCharacters": "Search"
+    },
+    {
+      "id": "117:1144",
+      "name": "Home",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10418,
+        "y": 5433,
+        "width": 74,
+        "height": 30
+      },
+      "parentId": "117:1142",
+      "previewCharacters": "Home"
+    },
+    {
+      "id": "117:2252",
+      "name": "Continue",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10939,
+        "y": 6170,
+        "width": 88,
+        "height": 24
+      },
+      "parentId": "117:2250",
+      "previewCharacters": "Continue"
+    },
+    {
+      "id": "117:2259",
+      "name": "+1",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10970,
+        "y": 5751,
+        "width": 20,
+        "height": 24
+      },
+      "parentId": "117:2258",
+      "previewCharacters": "+1"
+    },
+    {
+      "id": "117:2260",
+      "name": "150-9658-1538",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10940,
+        "y": 5751,
+        "width": 139,
+        "height": 24
+      },
+      "parentId": "117:2258",
+      "previewCharacters": "150-9658-1538"
+    },
+    {
+      "id": "117:2265",
+      "name": "Adding a phone number to your account is a great step toward a better experience.",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11051,
+        "y": 5585,
+        "width": 311,
+        "height": 78
+      },
+      "parentId": "117:2264",
+      "previewCharacters": "Adding a phone number to your account is a great step toward a better experience."
+    },
+    {
+      "id": "117:2266",
+      "name": "Add Number",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10973,
+        "y": 5539,
+        "width": 155,
+        "height": 30
+      },
+      "parentId": "117:2264",
+      "previewCharacters": "Add Number"
+    },
+    {
+      "id": "117:2268",
+      "name": "Phone Number",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10992,
+        "y": 5433,
+        "width": 186,
+        "height": 30
+      },
+      "parentId": "117:2267",
+      "previewCharacters": "Phone Number"
+    },
+    {
+      "id": "117:2179",
+      "name": "Continue",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11513,
+        "y": 6170,
+        "width": 88,
+        "height": 24
+      },
+      "parentId": "117:2177",
+      "previewCharacters": "Continue"
+    },
+    {
+      "id": "117:2197",
+      "name": "Confrim Password",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11644,
+        "y": 5842,
+        "width": 152,
+        "height": 26
+      },
+      "parentId": "117:2180",
+      "previewCharacters": "Confrim Password"
+    },
+    {
+      "id": "117:2215",
+      "name": "Password",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11644,
+        "y": 5727,
+        "width": 80,
+        "height": 26
+      },
+      "parentId": "117:2198",
+      "previewCharacters": "Password"
+    },
+    {
+      "id": "117:2217",
+      "name": "You can reset your password now, enter a new password and secure your accounts",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11618,
+        "y": 5585,
+        "width": 311,
+        "height": 72
+      },
+      "parentId": "117:2216",
+      "previewCharacters": "You can reset your password now, enter a new password and secure your accounts "
+    },
+    {
+      "id": "117:2218",
+      "name": "Reset Password",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11558,
+        "y": 5539,
+        "width": 191,
+        "height": 30
+      },
+      "parentId": "117:2216",
+      "previewCharacters": "Reset Password"
+    },
+    {
+      "id": "117:2220",
+      "name": "Reset Password",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11566,
+        "y": 5433,
+        "width": 195,
+        "height": 30
+      },
+      "parentId": "117:2219",
+      "previewCharacters": "Reset Password"
+    },
+    {
+      "id": "117:2227",
+      "name": "Continue",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12087,
+        "y": 6170,
+        "width": 88,
+        "height": 24
+      },
+      "parentId": "117:2225",
+      "previewCharacters": "Continue"
+    },
+    {
+      "id": "117:2231",
+      "name": "-",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11906,
+        "y": 5753,
+        "width": 16,
+        "height": 20
+      },
+      "parentId": "117:2229",
+      "previewCharacters": "-"
+    },
+    {
+      "id": "117:2234",
+      "name": "-",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12003,
+        "y": 5753,
+        "width": 16,
+        "height": 21
+      },
+      "parentId": "117:2232",
+      "previewCharacters": "-"
+    },
+    {
+      "id": "117:2237",
+      "name": "9",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12099,
+        "y": 5752,
+        "width": 16,
+        "height": 23
+      },
+      "parentId": "117:2235",
+      "previewCharacters": "9"
+    },
+    {
+      "id": "117:2240",
+      "name": "7",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12195,
+        "y": 5752,
+        "width": 14,
+        "height": 23
+      },
+      "parentId": "117:2238",
+      "previewCharacters": "7"
+    },
+    {
+      "id": "117:2242",
+      "name": "We sent otp verification to your email this code will expired in 01:35",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12192,
+        "y": 5585,
+        "width": 311,
+        "height": 78
+      },
+      "parentId": "117:2241",
+      "previewCharacters": "We sent otp verification to your email this code will expired in\n01:35"
+    },
+    {
+      "id": "117:2243",
+      "name": "OTP Verification",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12133,
+        "y": 5539,
+        "width": 192,
+        "height": 30
+      },
+      "parentId": "117:2241",
+      "previewCharacters": "OTP Verification"
+    },
+    {
+      "id": "117:2245",
+      "name": "OTP Verification",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12140,
+        "y": 5433,
+        "width": 198,
+        "height": 30
+      },
+      "parentId": "117:2244",
+      "previewCharacters": "OTP Verification"
+    },
+    {
+      "id": "117:2162",
+      "name": "Continue",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10365,
+        "y": 5000,
+        "width": 88,
+        "height": 24
+      },
+      "parentId": "117:2160",
+      "previewCharacters": "Continue"
+    },
+    {
+      "id": "117:2166",
+      "name": "arthurdorrance@gmail.com",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10480,
+        "y": 4613,
+        "width": 197,
+        "height": 20
+      },
+      "parentId": "117:2164",
+      "previewCharacters": "arthurdorrance@gmail.com"
+    },
+    {
+      "id": "117:2167",
+      "name": "Email",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10496,
+        "y": 4557,
+        "width": 46,
+        "height": 22
+      },
+      "parentId": "117:2163",
+      "previewCharacters": "Email"
+    },
+    {
+      "id": "117:2169",
+      "name": "You can change your password for security reasons or reset it if you forget it.",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10470,
+        "y": 4415,
+        "width": 311,
+        "height": 72
+      },
+      "parentId": "117:2168",
+      "previewCharacters": "You can change your password for security reasons or reset it if\nyou forget it."
+    },
+    {
+      "id": "117:2170",
+      "name": "Forget Password",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10415,
+        "y": 4369,
+        "width": 201,
+        "height": 30
+      },
+      "parentId": "117:2168",
+      "previewCharacters": "Forget Password"
+    },
+    {
+      "id": "117:2172",
+      "name": "Forget Password",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10418,
+        "y": 4263,
+        "width": 206,
+        "height": 30
+      },
+      "parentId": "117:2171",
+      "previewCharacters": "Forget Password"
+    },
+    {
+      "id": "117:2041",
+      "name": "Log In",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10923,
+        "y": 5000,
+        "width": 57,
+        "height": 24
+      },
+      "parentId": "117:2039",
+      "previewCharacters": "Log In"
+    },
+    {
+      "id": "117:2043",
+      "name": "I agree to the terms and conditions",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11044,
+        "y": 4909,
+        "width": 246,
+        "height": 20
+      },
+      "parentId": "117:2042",
+      "previewCharacters": "I agree to the terms and conditions"
+    },
+    {
+      "id": "117:2064",
+      "name": "Confrim Password",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11070,
+        "y": 4802,
+        "width": 152,
+        "height": 26
+      },
+      "parentId": "117:2047",
+      "previewCharacters": "Confrim Password"
+    },
+    {
+      "id": "117:2082",
+      "name": "Password",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11070,
+        "y": 4687,
+        "width": 80,
+        "height": 26
+      },
+      "parentId": "117:2065",
+      "previewCharacters": "Password"
+    },
+    {
+      "id": "117:2086",
+      "name": "arthurdorrance@gmail.com",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11054,
+        "y": 4625,
+        "width": 197,
+        "height": 20
+      },
+      "parentId": "117:2084",
+      "previewCharacters": "arthurdorrance@gmail.com"
+    },
+    {
+      "id": "117:2087",
+      "name": "Email",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11070,
+        "y": 4569,
+        "width": 46,
+        "height": 22
+      },
+      "parentId": "117:2083",
+      "previewCharacters": "Email"
+    },
+    {
+      "id": "117:2091",
+      "name": "arthurdorrance",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11054,
+        "y": 4507,
+        "width": 106,
+        "height": 20
+      },
+      "parentId": "117:2089",
+      "previewCharacters": "arthurdorrance"
+    },
+    {
+      "id": "117:2092",
+      "name": "Username",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11070,
+        "y": 4451,
+        "width": 86,
+        "height": 22
+      },
+      "parentId": "117:2088",
+      "previewCharacters": "Username"
+    },
+    {
+      "id": "117:2107",
+      "name": "Create your account or Log In",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11029,
+        "y": 4299,
+        "width": 267,
+        "height": 24
+      },
+      "parentId": "117:2106",
+      "previewCharacters": "Create your account or Log In"
+    },
+    {
+      "id": "117:2108",
+      "name": "Welcome",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10961,
+        "y": 4251,
+        "width": 130,
+        "height": 32
+      },
+      "parentId": "117:2106",
+      "previewCharacters": "Welcome"
+    },
+    {
+      "id": "117:1997",
+      "name": "Log In",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11497,
+        "y": 5000,
+        "width": 57,
+        "height": 24
+      },
+      "parentId": "117:1995",
+      "previewCharacters": "Log In"
+    },
+    {
+      "id": "117:2000",
+      "name": "I agree to the terms and conditions",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11618,
+        "y": 4909,
+        "width": 246,
+        "height": 20
+      },
+      "parentId": "117:1999",
+      "previewCharacters": "I agree to the terms and conditions"
+    },
+    {
+      "id": "117:2005",
+      "name": "Confrim your password",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11628,
+        "y": 4855,
+        "width": 164,
+        "height": 20
+      },
+      "parentId": "117:2003",
+      "previewCharacters": "Confrim your password"
+    },
+    {
+      "id": "117:2006",
+      "name": "Confrim Password",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11644,
+        "y": 4802,
+        "width": 152,
+        "height": 26
+      },
+      "parentId": "117:2002",
+      "previewCharacters": "Confrim Password"
+    },
+    {
+      "id": "117:2010",
+      "name": "Password",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11628,
+        "y": 4740,
+        "width": 67,
+        "height": 20
+      },
+      "parentId": "117:2008",
+      "previewCharacters": "Password"
+    },
+    {
+      "id": "117:2011",
+      "name": "Password",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11644,
+        "y": 4687,
+        "width": 80,
+        "height": 26
+      },
+      "parentId": "117:2007",
+      "previewCharacters": "Password"
+    },
+    {
+      "id": "117:2015",
+      "name": "Enter your email address",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11628,
+        "y": 4625,
+        "width": 174,
+        "height": 20
+      },
+      "parentId": "117:2013",
+      "previewCharacters": "Enter your email address"
+    },
+    {
+      "id": "117:2016",
+      "name": "Email",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11644,
+        "y": 4569,
+        "width": 46,
+        "height": 22
+      },
+      "parentId": "117:2012",
+      "previewCharacters": "Email"
+    },
+    {
+      "id": "117:2020",
+      "name": "Enter a username",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11628,
+        "y": 4507,
+        "width": 124,
+        "height": 20
+      },
+      "parentId": "117:2018",
+      "previewCharacters": "Enter a username"
+    },
+    {
+      "id": "117:2021",
+      "name": "Username",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11644,
+        "y": 4451,
+        "width": 86,
+        "height": 22
+      },
+      "parentId": "117:2017",
+      "previewCharacters": "Username"
+    },
+    {
+      "id": "117:2036",
+      "name": "Create your account or Log In",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11603,
+        "y": 4299,
+        "width": 267,
+        "height": 24
+      },
+      "parentId": "117:2035",
+      "previewCharacters": "Create your account or Log In"
+    },
+    {
+      "id": "117:2037",
+      "name": "Welcome",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11535,
+        "y": 4251,
+        "width": 130,
+        "height": 32
+      },
+      "parentId": "117:2035",
+      "previewCharacters": "Welcome"
+    },
+    {
+      "id": "117:2112",
+      "name": "Log In",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12071,
+        "y": 5000,
+        "width": 57,
+        "height": 24
+      },
+      "parentId": "117:2110",
+      "previewCharacters": "Log In"
+    },
+    {
+      "id": "117:2114",
+      "name": "Forgot password",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11985,
+        "y": 4773,
+        "width": 117,
+        "height": 20
+      },
+      "parentId": "117:2113",
+      "previewCharacters": "Forgot password"
+    },
+    {
+      "id": "117:2116",
+      "name": "Remember me",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12192,
+        "y": 4773,
+        "width": 105,
+        "height": 20
+      },
+      "parentId": "117:2115",
+      "previewCharacters": "Remember me"
+    },
+    {
+      "id": "117:2137",
+      "name": "Password",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12218,
+        "y": 4666,
+        "width": 80,
+        "height": 26
+      },
+      "parentId": "117:2119",
+      "previewCharacters": "Password"
+    },
+    {
+      "id": "117:2141",
+      "name": "arthurdorrance@gmail.com",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12202,
+        "y": 4604,
+        "width": 197,
+        "height": 20
+      },
+      "parentId": "117:2139",
+      "previewCharacters": "arthurdorrance@gmail.com"
+    },
+    {
+      "id": "117:2142",
+      "name": "Email",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12218,
+        "y": 4548,
+        "width": 46,
+        "height": 22
+      },
+      "parentId": "117:2138",
+      "previewCharacters": "Email"
+    },
+    {
+      "id": "117:2157",
+      "name": "Don’t have an account? Sign Up",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12187,
+        "y": 4361,
+        "width": 287,
+        "height": 24
+      },
+      "parentId": "117:2156",
+      "previewCharacters": "Don’t have an account? Sign Up"
+    },
+    {
+      "id": "117:2158",
+      "name": "Welcome Back",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12147,
+        "y": 4313,
+        "width": 206,
+        "height": 32
+      },
+      "parentId": "117:2156",
+      "previewCharacters": "Welcome Back"
+    },
+    {
+      "id": "117:1962",
+      "name": "Log In",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10349,
+        "y": 3830,
+        "width": 57,
+        "height": 24
+      },
+      "parentId": "117:1960",
+      "previewCharacters": "Log In"
+    },
+    {
+      "id": "117:1964",
+      "name": "Forgot password",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10263,
+        "y": 3603,
+        "width": 117,
+        "height": 20
+      },
+      "parentId": "117:1963",
+      "previewCharacters": "Forgot password"
+    },
+    {
+      "id": "117:1966",
+      "name": "Remember me",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10470,
+        "y": 3603,
+        "width": 105,
+        "height": 20
+      },
+      "parentId": "117:1965",
+      "previewCharacters": "Remember me"
+    },
+    {
+      "id": "117:1971",
+      "name": "Password",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10480,
+        "y": 3549,
+        "width": 67,
+        "height": 20
+      },
+      "parentId": "117:1969",
+      "previewCharacters": "Password"
+    },
+    {
+      "id": "117:1972",
+      "name": "Password",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10496,
+        "y": 3496,
+        "width": 80,
+        "height": 26
+      },
+      "parentId": "117:1968",
+      "previewCharacters": "Password"
+    },
+    {
+      "id": "117:1976",
+      "name": "Enter your email address",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10480,
+        "y": 3434,
+        "width": 174,
+        "height": 20
+      },
+      "parentId": "117:1974",
+      "previewCharacters": "Enter your email address"
+    },
+    {
+      "id": "117:1977",
+      "name": "Email",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10496,
+        "y": 3378,
+        "width": 46,
+        "height": 22
+      },
+      "parentId": "117:1973",
+      "previewCharacters": "Email"
+    },
+    {
+      "id": "117:1992",
+      "name": "Don’t have an account? Sign Up",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10465,
+        "y": 3191,
+        "width": 287,
+        "height": 24
+      },
+      "parentId": "117:1991",
+      "previewCharacters": "Don’t have an account? Sign Up"
+    },
+    {
+      "id": "117:1993",
+      "name": "Welcome Back",
+      "type": "TEXT",
+      "bounds": {
+        "x": -10425,
+        "y": 3143,
+        "width": 206,
+        "height": 32
+      },
+      "parentId": "117:1991",
+      "previewCharacters": "Welcome Back"
+    },
+    {
+      "id": "117:1561",
+      "name": "Find Work Fast And Buildyour Career",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11039,
+        "y": 3625,
+        "width": 289,
+        "height": 80
+      },
+      "parentId": "117:1560",
+      "previewCharacters": "Find Work Fast\nAnd Buildyour Career"
+    },
+    {
+      "id": "117:1692",
+      "name": "Build Career & Hire Staff",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11070,
+        "y": 3081,
+        "width": 231,
+        "height": 90
+      },
+      "parentId": "117:1691",
+      "previewCharacters": "Build Career\n& Hire Staff"
+    },
+    {
+      "id": "117:1295",
+      "name": "Get Free Access To Millions Of Job",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11587,
+        "y": 3625,
+        "width": 237,
+        "height": 80
+      },
+      "parentId": "117:1294",
+      "previewCharacters": "Get Free Access\nTo Millions Of Job"
+    },
+    {
+      "id": "117:1554",
+      "name": "Submit Job Application",
+      "type": "TEXT",
+      "bounds": {
+        "x": -11644,
+        "y": 3081,
+        "width": 215,
+        "height": 90
+      },
+      "parentId": "117:1553",
+      "previewCharacters": "Submit Job\nApplication"
+    },
+    {
+      "id": "117:1158",
+      "name": "Stable Yourself With Your Abilities",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12166,
+        "y": 3625,
+        "width": 246,
+        "height": 80
+      },
+      "parentId": "117:1157",
+      "previewCharacters": "Stable Yourself\nWith Your Abilities"
+    },
+    {
+      "id": "117:1288",
+      "name": "Find Your Dream Job",
+      "type": "TEXT",
+      "bounds": {
+        "x": -12218,
+        "y": 3081,
+        "width": 206,
+        "height": 90
+      },
+      "parentId": "117:1287",
+      "previewCharacters": "Find Your\nDream Job"
+    }
+  ],
+  "total": 349,
+  "hasMore": false
+}

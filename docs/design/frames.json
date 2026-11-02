@@ -1,0 +1,392 @@
+[
+  {
+    "id": "117:1152",
+    "name": "Onboarding",
+    "type": "FRAME",
+    "bounds": {
+      "x": -12250,
+      "y": 3013,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 5
+  },
+  {
+    "id": "117:1289",
+    "name": "Onboarding",
+    "type": "FRAME",
+    "bounds": {
+      "x": -11676,
+      "y": 3013,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 5
+  },
+  {
+    "id": "117:1555",
+    "name": "Onboarding",
+    "type": "FRAME",
+    "bounds": {
+      "x": -11102,
+      "y": 3013,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 5
+  },
+  {
+    "id": "117:1959",
+    "name": "Login",
+    "type": "FRAME",
+    "bounds": {
+      "x": -10528,
+      "y": 3013,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 6
+  },
+  {
+    "id": "117:2109",
+    "name": "Login",
+    "type": "FRAME",
+    "bounds": {
+      "x": -12250,
+      "y": 4183,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 6
+  },
+  {
+    "id": "117:1994",
+    "name": "Signup",
+    "type": "FRAME",
+    "bounds": {
+      "x": -11676,
+      "y": 4183,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 8
+  },
+  {
+    "id": "117:2038",
+    "name": "Signup",
+    "type": "FRAME",
+    "bounds": {
+      "x": -11102,
+      "y": 4183,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 8
+  },
+  {
+    "id": "117:2159",
+    "name": "Forget Password",
+    "type": "FRAME",
+    "bounds": {
+      "x": -10528,
+      "y": 4183,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 4
+  },
+  {
+    "id": "117:2224",
+    "name": "OTP Verification",
+    "type": "FRAME",
+    "bounds": {
+      "x": -12250,
+      "y": 5353,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 4
+  },
+  {
+    "id": "117:2176",
+    "name": "Reset Password",
+    "type": "FRAME",
+    "bounds": {
+      "x": -11676,
+      "y": 5353,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 5
+  },
+  {
+    "id": "117:2249",
+    "name": "Phone Numbet",
+    "type": "FRAME",
+    "bounds": {
+      "x": -11102,
+      "y": 5353,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 4
+  },
+  {
+    "id": "117:1068",
+    "name": "Home",
+    "type": "FRAME",
+    "bounds": {
+      "x": -10528,
+      "y": 5353,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 5
+  },
+  {
+    "id": "117:826",
+    "name": "Search",
+    "type": "FRAME",
+    "bounds": {
+      "x": -12250,
+      "y": 6523,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 5
+  },
+  {
+    "id": "117:986",
+    "name": "Search",
+    "type": "FRAME",
+    "bounds": {
+      "x": -11676,
+      "y": 6523,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 5
+  },
+  {
+    "id": "117:493",
+    "name": "Catagory",
+    "type": "FRAME",
+    "bounds": {
+      "x": -11102,
+      "y": 6523,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 4
+  },
+  {
+    "id": "117:645",
+    "name": "Catagory",
+    "type": "FRAME",
+    "bounds": {
+      "x": -10528,
+      "y": 6523,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 3
+  },
+  {
+    "id": "117:912",
+    "name": "Popular Jobs",
+    "type": "FRAME",
+    "bounds": {
+      "x": -12250,
+      "y": 7693,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 3
+  },
+  {
+    "id": "117:351",
+    "name": "Jobs",
+    "type": "FRAME",
+    "bounds": {
+      "x": -11676,
+      "y": 7693,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 5
+  },
+  {
+    "id": "117:391",
+    "name": "Jobs",
+    "type": "FRAME",
+    "bounds": {
+      "x": -11102,
+      "y": 7693,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 7
+  },
+  {
+    "id": "117:441",
+    "name": "Jobs",
+    "type": "FRAME",
+    "bounds": {
+      "x": -10528,
+      "y": 7693,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 6
+  },
+  {
+    "id": "117:301",
+    "name": "Filter",
+    "type": "FRAME",
+    "bounds": {
+      "x": -12250,
+      "y": 8863,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 6
+  },
+  {
+    "id": "117:250",
+    "name": "Filter",
+    "type": "FRAME",
+    "bounds": {
+      "x": -11676,
+      "y": 8863,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 6
+  },
+  {
+    "id": "117:186",
+    "name": "Activity",
+    "type": "FRAME",
+    "bounds": {
+      "x": -11102,
+      "y": 8863,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 3
+  },
+  {
+    "id": "117:124",
+    "name": "Profile",
+    "type": "FRAME",
+    "bounds": {
+      "x": -10528,
+      "y": 8863,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 7
+  },
+  {
+    "id": "117:49",
+    "name": "Settings",
+    "type": "FRAME",
+    "bounds": {
+      "x": -12250,
+      "y": 10033,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 3
+  },
+  {
+    "id": "117:1811",
+    "name": "Payment Methods",
+    "type": "FRAME",
+    "bounds": {
+      "x": -11676,
+      "y": 10033,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 6
+  },
+  {
+    "id": "117:1693",
+    "name": "Add Card",
+    "type": "FRAME",
+    "bounds": {
+      "x": -11102,
+      "y": 10033,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 7
+  },
+  {
+    "id": "117:1748",
+    "name": "Add Card",
+    "type": "FRAME",
+    "bounds": {
+      "x": -10528,
+      "y": 10033,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 7
+  },
+  {
+    "id": "117:1896",
+    "name": "Notification",
+    "type": "FRAME",
+    "bounds": {
+      "x": -11676,
+      "y": 11203,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 7
+  },
+  {
+    "id": "117:15",
+    "name": "Map",
+    "type": "FRAME",
+    "bounds": {
+      "x": -11102,
+      "y": 11203,
+      "width": 414,
+      "height": 896
+    },
+    "parentId": "0:1",
+    "childCount": 3
+  }
+]
